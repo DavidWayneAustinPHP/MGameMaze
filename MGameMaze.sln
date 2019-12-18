@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGameMaze", "MGameMaze.csproj", "{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MazeGame", "..\MazeGame\MazeGame.vdproj", "{F6688909-9F12-4799-8201-B2454DA4194F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Debug|ARM.Build.0 = Debug|ARM
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Debug|x64.ActiveCfg = Debug|x64
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Debug|x64.Build.0 = Debug|x64
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Debug|x64.Deploy.0 = Debug|x64
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Debug|x86.ActiveCfg = Debug|x86
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Debug|x86.Build.0 = Debug|x86
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Debug|x86.Deploy.0 = Debug|x86
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Release|ARM.ActiveCfg = Release|ARM
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Release|ARM.Build.0 = Release|ARM
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Release|ARM.Deploy.0 = Release|ARM
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Release|x64.ActiveCfg = Release|x64
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Release|x64.Build.0 = Release|x64
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Release|x64.Deploy.0 = Release|x64
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Release|x86.ActiveCfg = Release|x86
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Release|x86.Build.0 = Release|x86
+		{4CB6E089-1F4E-4F88-95E1-CF8E0845834A}.Release|x86.Deploy.0 = Release|x86
+		{F6688909-9F12-4799-8201-B2454DA4194F}.Debug|ARM.ActiveCfg = Debug
+		{F6688909-9F12-4799-8201-B2454DA4194F}.Debug|x64.ActiveCfg = Debug
+		{F6688909-9F12-4799-8201-B2454DA4194F}.Debug|x86.ActiveCfg = Debug
+		{F6688909-9F12-4799-8201-B2454DA4194F}.Release|ARM.ActiveCfg = Release
+		{F6688909-9F12-4799-8201-B2454DA4194F}.Release|x64.ActiveCfg = Release
+		{F6688909-9F12-4799-8201-B2454DA4194F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53E441A1-7542-4176-B29D-CBC813DE1F0E}
+	EndGlobalSection
+EndGlobal
